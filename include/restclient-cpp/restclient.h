@@ -13,6 +13,8 @@
 #include <map>
 #include <cstdlib>
 #include <algorithm>
+#include <functional>
+#include <cctype>
 
 class RestClient
 {
